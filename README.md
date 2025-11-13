@@ -63,7 +63,7 @@ Router(dhcp-config)# default-router 192.168.50.1<br>
 Router(dhcp-config)# dns-server 8.8.8.8<br>
 Router(dhcp-config)# exit<br>
 ________________________________________
-# Output (Screenshots)
+# Output 
 ### •	DHCP IP configuration shown in PC0 and PC1<br>
 
 <img width="1920" height="1080" alt="Screenshot 2025-08-30 134105" src="https://github.com/user-attachments/assets/aaf5d8a6-f853-421a-ba63-f6ee7d033332" />
